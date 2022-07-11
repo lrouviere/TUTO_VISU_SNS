@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "TUTO_VISU_SNS"
-  author: "Jane Doe"
+  title: "Visualisation avec R"
+  author: "L. Rouvière"
   date: "7/11/2022"
   chapters:
     - index.qmd
